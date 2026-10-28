@@ -4,8 +4,8 @@ Trabajo práctico individual de Taller de Programación I (FIUBA).
 
 ## Datos del estudiante
 
-- Nombre: completar
-- Padrón: completar
+- Nombre: DIEGO
+- Padrón: 106978
 - Elixir: 1.19.5
 - Erlang/OTP: 28
 
